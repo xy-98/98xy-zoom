@@ -1,0 +1,20 @@
+{
+  "name": "98xy-zoom",
+  "version": "1.0.7",
+  "description": "放大镜 zoom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "放大镜",
+    "zoom"
+  ],
+  "author": "曦洋",
+  "license": "MIT",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "sass": "^1.54.9",
+    "vue": "^3.2.39"
+  }
+}
